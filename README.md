@@ -1,6 +1,6 @@
 # A Discord Bot in using built-in Discord module in Python
 
-## This bot will greet a user with a greeting message and can tell you about weather also can calculate BMI can send you random motivational quotes
+## This bot will greet a new comer with a greeting message and can tell you about weather also can calculate BMI can send you random motivational quotes
 
 First you need to setup your _`.env`_ file first make a virtual environment using this command **_`python -m venv env`_** then activate it using **_`env/scripts/activate`_** then install all the dependencies using **_`pip install -r requirements.txt`_**
 **ALL ABOVE MENTIONED COMMANDS ARE ONLY FOR WINDOWS**
